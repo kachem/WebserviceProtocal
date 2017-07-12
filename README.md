@@ -23,5 +23,5 @@ UDDI
   总的来说就是uddi完成调用服务的查找，在获取WSDL之后，我们就可以对其进行调用，调用的过程中，传递的对象为SOAP封装好的对象 
 
 在Android中，要使用WebService方式通信，需要用到一个jar包： 
-`ksoap2-android-assembly-x.x.x-jar-with-dependencies（x.x.x未改包的版本号）  
+`ksoap2-android-assembly-x.x.x-jar-with-dependencies`（x.x.x未改包的版本号） 
   本项目采用mvp模式使用WebService通信来简单实现了获取天气查询支持的省份功能
